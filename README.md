@@ -1,7 +1,7 @@
 BeVexed 1.1
 A maddeningly-addictive puzzle game.
 
-![BeVexed app](BeVexed/BeVexed.png?raw=true "BeVexed")
+![BeVexed app](https://github.com/ayushmunot/BeVexed/blob/master/BeVexed.png?raw=true "BeVexed")
 
 If you've ever heard of a game called TetraVex, you will find this wonderful little time waster all too familiar. The concept is simple: put the tiles in the grid on the left such that the numbers match wherever 2 tiles touch.
 
